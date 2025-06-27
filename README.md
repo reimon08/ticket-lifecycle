@@ -28,28 +28,41 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+<h2>Before we start the project</h2>
+
+<p>DELETE the Maintenance Department (not archive). For some reason, all the tickets keep getting routed there.</p>
+
+https://github.com/user-attachments/assets/2196f575-a166-494e-96d7-f19aa2e41f1e
+
+<p>CHANGE role for John Doe to "expanded access" so that he can view and modify the tickets.</p>
+
+https://github.com/user-attachments/assets/6d1c9be1-01ee-4d41-ab4a-064154cbe2b1
+
+
+
+
+
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h4>As an end-user, create the following ticket</h4>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p>So, from the end users we set up earlier during the post-installation, we’re gonna create a ticket as Karen. The issue will be that the online banking system is down.</p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="900" alt="Screenshot 2025-06-23 at 9 25 32 AM" src="https://github.com/user-attachments/assets/b0b6a001-d587-4eb6-a2e8-dd745d4cd9a6" />
+
+<img width="900" alt="Screenshot 2025-06-27 at 11 02 53 AM" src="https://github.com/user-attachments/assets/59c13929-0251-49a5-8847-04a281a36988" />
+
+<h4>Now we’re gonna log in as John and check out the ticket’s properties.</h4>
+
+<p>If you're prompted to change the password, just go ahead and do it, then save it.</p>
+
+<img width="1062" alt="Screenshot 2025-06-27 at 11 29 01 AM" src="https://github.com/user-attachments/assets/c77a555d-d7ab-4b94-a3a4-1046ef823490" />
+
+
+
+
+
+
+
+
+
