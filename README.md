@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/6d1c9be1-01ee-4d41-ab4a-064154cbe2b1
 
 <h2>Lifecycle Stages</h2>
 
-<h4>As an end-user, create the following ticket</h4>
+<h4>Intake</h4>
 
 <p>So, from the end users we set up earlier during the post-installation, we’re gonna create a ticket as Karen. The issue will be that the online banking system is down.</p>
 
@@ -52,11 +52,23 @@ https://github.com/user-attachments/assets/6d1c9be1-01ee-4d41-ab4a-064154cbe2b1
 
 <img width="900" alt="Screenshot 2025-06-27 at 11 02 53 AM" src="https://github.com/user-attachments/assets/59c13929-0251-49a5-8847-04a281a36988" />
 
-<h4>Now we’re gonna log in as John and check out the ticket’s properties.</h4>
+<h4>Assignment and Communication | Working the Issue | Resolution</h4>
+
+<p>Now we’re gonna log in as John and check out the ticket’s properties.</p>
 
 <p>If you're prompted to change the password, just go ahead and do it, then save it.</p>
 
 <img width="1062" alt="Screenshot 2025-06-27 at 11 29 01 AM" src="https://github.com/user-attachments/assets/c77a555d-d7ab-4b94-a3a4-1046ef823490" />
+
+<h4>Once I’m logged in as John, I’ll check out the ticket, figure out how severe the issue is, and then route it to the right team.</h4>
+
+<p>Since the ticket is banking-related, I’ll assign it to the Online Banking team. I’m also updating the SLA plan to Sev-A since this has a big impact on the business. I changed the help topic to 'Business Critical Outage' and added some notes to help the Online Banking team handle it better.</p>
+
+
+https://github.com/user-attachments/assets/2df80953-ef8a-41bc-ac97-78330cc6ff24
+
+
+
 
 
 
