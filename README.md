@@ -99,6 +99,13 @@ https://github.com/user-attachments/assets/62035a77-e6ef-482e-8551-e3beae88aac4
 
 https://github.com/user-attachments/assets/05fc4f73-a2d8-4e55-b103-da5db16a9183
 
+<h2>That wraps up our project!</h2>
+
+<p>We’ve successfully gone through the entire osTicket lab — from installation, to post-install setup, all the way through the full life cycle of a Help Desk ticket.</p>
+
+<p>Since we’re done, make sure to stop the VM so you’re not burning money while it’s idle. If you’re totally finished with the lab, feel free to delete the entire resource group to avoid getting charged for storage.</p>
+
+<h4>Thanks for your time and I’m looking forward to doing more labs with you all in the future!</h4>
 
 
 
