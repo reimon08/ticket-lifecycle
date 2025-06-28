@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/6d1c9be1-01ee-4d41-ab4a-064154cbe2b1
 
 
 
-<h2>Lifecycle Stages</h2>
+<h2>Example 1</h2>
 
 <h4>Intake</h4>
 
@@ -66,6 +66,49 @@ https://github.com/user-attachments/assets/6d1c9be1-01ee-4d41-ab4a-064154cbe2b1
 
 
 https://github.com/user-attachments/assets/2df80953-ef8a-41bc-ac97-78330cc6ff24
+
+<p>Alright, now we’re gonna log in as Jane since she’s part of the Online Banking team. And we will work on the ticket from there.</p>
+
+<p>The problem here is that Karen was notified by her employees that the online banking portal isn't working, and it was fixed by Jane by rolling back the updates for now until it is fixed.</p>
+
+
+https://github.com/user-attachments/assets/65ba132d-1e9c-46e2-8de9-3f5de9d406f8
+
+<h2>Example 2</h2>
+
+<h4>Intake</h4>
+
+<p>As an end-user, we're gonna create a new ticket. This issue now is about Adobe software.</p>
+
+
+<img width="900" alt="Screenshot 2025-06-28 at 6 55 56 AM" src="https://github.com/user-attachments/assets/e7d0190f-0dcd-482a-a98f-c56da79f109e" />
+
+<p>We’re gonna log back in as John and start working on the ticket from there.</p>
+
+<p>The story here is that only a few people can’t use their Adobe software. Since it’s just a small group, I classified the ticket as Sev-C because it has less impact.</p>
+
+<p>And I will be assigning this to myself (John Doe).</p>
+
+
+https://github.com/user-attachments/assets/62035a77-e6ef-482e-8551-e3beae88aac4
+
+<p>So the story here is that two people can’t use their Adobe Reader, and they said they’ll call back after lunch.</p>
+
+<p>They finally did the restart, and it worked, so I’m closing the ticket.</p>
+
+
+https://github.com/user-attachments/assets/05fc4f73-a2d8-4e55-b103-da5db16a9183
+
+
+
+
+
+
+
+
+
+
+
 
 
 
